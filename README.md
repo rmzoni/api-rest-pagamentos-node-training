@@ -1,2 +1,2 @@
-# api-rest-pagamentos-node-trainingA
+# api-rest-pagamentos-node-training
 API REST de Pagamento Utilizando Node.JS para Treinamento

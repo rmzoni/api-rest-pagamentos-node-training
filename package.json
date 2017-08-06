@@ -1,0 +1,28 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "API Rest de um gateway de pagamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmzoni/api-rest-pagamentos-node-training.git"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "payfast"
+  ],
+  "author": "Manzoni, Rafael <rmzoni@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmzoni/api-rest-pagamentos-node-training/issues"
+  },
+  "homepage": "https://github.com/rmzoni/api-rest-pagamentos-node-training#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.15.3"
+  }
+}

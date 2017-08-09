@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/rmzoni/api-rest-pagamentos-node-training#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "consign": "^0.1.6",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "express-validator": "^3.2.1",
+    "mysql": "^2.14.1"
   }
 }

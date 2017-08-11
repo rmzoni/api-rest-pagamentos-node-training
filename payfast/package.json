@@ -26,9 +26,12 @@
     "consign": "^0.1.6",
     "express": "^4.15.3",
     "express-validator": "^3.2.1",
+    "memcached": "^2.2.2",
+    "morgan": "^1.8.2",
     "mysql": "^2.14.1",
     "restify": "^5.0.1",
     "restify-clients": "^1.5.0",
-    "soap": "^0.20.0"
+    "soap": "^0.20.0",
+    "winston": "^2.3.1"
   }
 }
